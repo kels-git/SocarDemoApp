@@ -1,4 +1,4 @@
-# SocarTaskApp
+# SocarDemoApp
 
 - ⚡ Project created with  **react native, firebase, map-navigation **
 
